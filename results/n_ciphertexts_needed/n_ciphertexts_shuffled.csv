@@ -1,0 +1,2 @@
+confusion_matrix_filepath,spread,n_inequalities,n_ciphertexts,n_wrong_inequalities,recovered_key,fraction_of_solution_recovered,n_iterations,time_seconds_build_inequalities,time_seconds_solve_inequalities,max_ciphertext_exceeded,n_zeros,n_extreme_zeros_to_accept_inequalities
+../../data/gaussian_confusion_matrices/scale_0.00.csv,317,300000,8161493,46823,True,1.00,75,5392.22,136.16,False,4,2

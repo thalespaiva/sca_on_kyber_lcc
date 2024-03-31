@@ -1,0 +1,246 @@
+algorithm,seed,n_inequalities,recovered_key,fraction_of_solution_recovered,n_iterations,time_seconds_solve_inequalities,approx_number_of_ciphertexts,confusion_matrix
+Belief Propagation,100000,20000,False,0.74,10,301.44,330.00,../data/gaussian_confusion_matrices/scale_0.00.csv
+Belief Propagation,100000,30000,False,0.88,9,408.21,495.00,../data/gaussian_confusion_matrices/scale_0.00.csv
+Belief Propagation,100000,35000,False,0.94,7,370.67,577.50,../data/gaussian_confusion_matrices/scale_0.00.csv
+Belief Propagation,100000,37500,False,0.96,12,672.30,618.75,../data/gaussian_confusion_matrices/scale_0.00.csv
+Belief Propagation,100000,38750,False,0.98,13,757.79,639.38,../data/gaussian_confusion_matrices/scale_0.00.csv
+Belief Propagation,100000,39375,False,0.97,6,358.90,649.69,../data/gaussian_confusion_matrices/scale_0.00.csv
+Belief Propagation,100000,39688,False,0.96,6,362.52,654.85,../data/gaussian_confusion_matrices/scale_0.00.csv
+Belief Propagation,100000,39844,True,1.00,14,830.63,657.43,../data/gaussian_confusion_matrices/scale_0.00.csv
+Belief Propagation,100000,39766,False,0.97,6,360.96,656.14,../data/gaussian_confusion_matrices/scale_0.00.csv
+algorithm,seed,n_inequalities,recovered_key,fraction_of_solution_recovered,n_iterations,time_seconds_solve_inequalities,approx_number_of_ciphertexts,confusion_matrix
+Belief Propagation,100001,20000,False,0.74,11,333.46,329.50,../data/gaussian_confusion_matrices/scale_0.00.csv
+Belief Propagation,100001,30000,False,0.87,13,574.82,494.25,../data/gaussian_confusion_matrices/scale_0.00.csv
+Belief Propagation,100001,35000,False,0.91,7,365.57,576.62,../data/gaussian_confusion_matrices/scale_0.00.csv
+Belief Propagation,100001,37500,False,0.96,7,398.30,617.81,../data/gaussian_confusion_matrices/scale_0.00.csv
+Belief Propagation,100001,38750,False,0.97,8,459.12,638.41,../data/gaussian_confusion_matrices/scale_0.00.csv
+Belief Propagation,100001,39375,False,0.96,10,581.21,648.70,../data/gaussian_confusion_matrices/scale_0.00.csv
+Belief Propagation,100001,39688,False,0.97,11,644.54,653.86,../data/gaussian_confusion_matrices/scale_0.00.csv
+Belief Propagation,100001,39844,False,0.97,11,646.12,656.43,../data/gaussian_confusion_matrices/scale_0.00.csv
+Belief Propagation,100001,39922,False,0.94,5,300.05,657.71,../data/gaussian_confusion_matrices/scale_0.00.csv
+Belief Propagation,100001,39961,False,0.94,5,300.26,658.36,../data/gaussian_confusion_matrices/scale_0.00.csv
+Belief Propagation,100001,39981,False,0.96,6,362.49,658.69,../data/gaussian_confusion_matrices/scale_0.00.csv
+Belief Propagation,100001,39991,False,0.95,5,306.65,658.85,../data/gaussian_confusion_matrices/scale_0.00.csv
+Belief Propagation,100001,39996,False,0.96,12,706.72,658.93,../data/gaussian_confusion_matrices/scale_0.00.csv
+Belief Propagation,100001,39998,False,0.95,5,302.23,658.97,../data/gaussian_confusion_matrices/scale_0.00.csv
+Belief Propagation,100001,39999,False,0.96,8,475.25,658.98,../data/gaussian_confusion_matrices/scale_0.00.csv
+algorithm,seed,n_inequalities,recovered_key,fraction_of_solution_recovered,n_iterations,time_seconds_solve_inequalities,approx_number_of_ciphertexts,confusion_matrix
+Belief Propagation,100002,20000,False,0.75,10,304.83,336.00,../data/gaussian_confusion_matrices/scale_0.00.csv
+Belief Propagation,100002,30000,False,0.89,6,278.62,504.00,../data/gaussian_confusion_matrices/scale_0.00.csv
+Belief Propagation,100002,35000,False,0.96,8,419.07,588.00,../data/gaussian_confusion_matrices/scale_0.00.csv
+Belief Propagation,100002,37500,False,0.95,7,402.41,630.00,../data/gaussian_confusion_matrices/scale_0.00.csv
+Belief Propagation,100002,38750,False,0.98,10,575.23,651.00,../data/gaussian_confusion_matrices/scale_0.00.csv
+Belief Propagation,100002,39375,False,0.98,8,473.65,661.50,../data/gaussian_confusion_matrices/scale_0.00.csv
+Belief Propagation,100002,39688,False,0.98,7,428.44,666.76,../data/gaussian_confusion_matrices/scale_0.00.csv
+Belief Propagation,100002,39844,False,0.99,10,595.80,669.38,../data/gaussian_confusion_matrices/scale_0.00.csv
+Belief Propagation,100002,39922,True,1.00,11,659.52,670.69,../data/gaussian_confusion_matrices/scale_0.00.csv
+Belief Propagation,100002,39883,False,0.98,8,480.49,670.03,../data/gaussian_confusion_matrices/scale_0.00.csv
+algorithm,seed,n_inequalities,recovered_key,fraction_of_solution_recovered,n_iterations,time_seconds_solve_inequalities,approx_number_of_ciphertexts,confusion_matrix
+Belief Propagation,100003,20000,False,0.75,5,154.21,333.00,../data/gaussian_confusion_matrices/scale_0.00.csv
+Belief Propagation,100003,30000,False,0.89,6,275.44,499.50,../data/gaussian_confusion_matrices/scale_0.00.csv
+Belief Propagation,100003,35000,False,0.96,8,421.84,582.75,../data/gaussian_confusion_matrices/scale_0.00.csv
+Belief Propagation,100003,37500,False,0.97,11,615.07,624.38,../data/gaussian_confusion_matrices/scale_0.00.csv
+Belief Propagation,100003,38750,True,1.00,12,688.33,645.19,../data/gaussian_confusion_matrices/scale_0.00.csv
+Belief Propagation,100003,38125,False,0.97,10,568.88,634.78,../data/gaussian_confusion_matrices/scale_0.00.csv
+Belief Propagation,100003,38438,False,0.98,9,516.90,639.99,../data/gaussian_confusion_matrices/scale_0.00.csv
+algorithm,seed,n_inequalities,recovered_key,fraction_of_solution_recovered,n_iterations,time_seconds_solve_inequalities,approx_number_of_ciphertexts,confusion_matrix
+Belief Propagation,100004,20000,False,0.76,8,248.69,336.00,../data/gaussian_confusion_matrices/scale_0.00.csv
+Belief Propagation,100004,30000,False,0.87,5,235.91,504.00,../data/gaussian_confusion_matrices/scale_0.00.csv
+Belief Propagation,100004,35000,False,0.92,6,327.67,588.00,../data/gaussian_confusion_matrices/scale_0.00.csv
+Belief Propagation,100004,37500,False,0.96,11,626.75,630.00,../data/gaussian_confusion_matrices/scale_0.00.csv
+Belief Propagation,100004,38750,False,0.99,10,586.95,651.00,../data/gaussian_confusion_matrices/scale_0.00.csv
+Belief Propagation,100004,39375,False,0.96,6,365.29,661.50,../data/gaussian_confusion_matrices/scale_0.00.csv
+Belief Propagation,100004,39688,False,0.98,10,601.26,666.76,../data/gaussian_confusion_matrices/scale_0.00.csv
+Belief Propagation,100004,39844,True,1.00,13,777.94,669.38,../data/gaussian_confusion_matrices/scale_0.00.csv
+Belief Propagation,100004,39766,False,0.96,6,364.15,668.07,../data/gaussian_confusion_matrices/scale_0.00.csv
+algorithm,seed,n_inequalities,recovered_key,fraction_of_solution_recovered,n_iterations,time_seconds_solve_inequalities,approx_number_of_ciphertexts,confusion_matrix
+Belief Propagation,100200,25000,False,0.83,5,193.46,414.00,../data/gaussian_confusion_matrices/scale_0.20.csv
+Belief Propagation,100200,37500,False,0.99,10,562.97,621.00,../data/gaussian_confusion_matrices/scale_0.20.csv
+Belief Propagation,100200,43750,False,0.99,12,782.71,724.50,../data/gaussian_confusion_matrices/scale_0.20.csv
+Belief Propagation,100200,46875,True,1.00,6,427.88,776.25,../data/gaussian_confusion_matrices/scale_0.20.csv
+Belief Propagation,100200,45313,False,0.99,6,414.31,750.38,../data/gaussian_confusion_matrices/scale_0.20.csv
+Belief Propagation,100200,46094,True,1.00,7,482.84,763.32,../data/gaussian_confusion_matrices/scale_0.20.csv
+Belief Propagation,100200,45704,True,1.00,7,480.89,756.86,../data/gaussian_confusion_matrices/scale_0.20.csv
+Belief Propagation,100200,45509,False,0.99,7,480.86,753.63,../data/gaussian_confusion_matrices/scale_0.20.csv
+algorithm,seed,n_inequalities,recovered_key,fraction_of_solution_recovered,n_iterations,time_seconds_solve_inequalities,approx_number_of_ciphertexts,confusion_matrix
+Belief Propagation,100201,25000,False,0.81,11,409.33,419.50,../data/gaussian_confusion_matrices/scale_0.20.csv
+Belief Propagation,100201,37500,False,0.94,6,342.79,629.25,../data/gaussian_confusion_matrices/scale_0.20.csv
+Belief Propagation,100201,43750,True,1.00,8,522.17,734.12,../data/gaussian_confusion_matrices/scale_0.20.csv
+Belief Propagation,100201,40625,False,0.99,10,609.86,681.69,../data/gaussian_confusion_matrices/scale_0.20.csv
+Belief Propagation,100201,42188,False,0.98,6,384.61,707.91,../data/gaussian_confusion_matrices/scale_0.20.csv
+Belief Propagation,100201,42969,False,0.99,6,390.79,721.02,../data/gaussian_confusion_matrices/scale_0.20.csv
+Belief Propagation,100201,43360,True,1.00,8,522.87,727.58,../data/gaussian_confusion_matrices/scale_0.20.csv
+Belief Propagation,100201,43165,False,0.99,6,394.85,724.31,../data/gaussian_confusion_matrices/scale_0.20.csv
+algorithm,seed,n_inequalities,recovered_key,fraction_of_solution_recovered,n_iterations,time_seconds_solve_inequalities,approx_number_of_ciphertexts,confusion_matrix
+Belief Propagation,100202,25000,False,0.79,14,527.96,414.50,../data/gaussian_confusion_matrices/scale_0.20.csv
+Belief Propagation,100202,37500,False,0.95,8,457.61,621.75,../data/gaussian_confusion_matrices/scale_0.20.csv
+Belief Propagation,100202,43750,True,1.00,7,463.19,725.38,../data/gaussian_confusion_matrices/scale_0.20.csv
+Belief Propagation,100202,40625,True,1.00,11,667.73,673.56,../data/gaussian_confusion_matrices/scale_0.20.csv
+Belief Propagation,100202,39063,False,0.93,6,356.24,647.66,../data/gaussian_confusion_matrices/scale_0.20.csv
+Belief Propagation,100202,39844,False,0.98,10,596.64,660.61,../data/gaussian_confusion_matrices/scale_0.20.csv
+Belief Propagation,100202,40235,True,1.00,12,721.31,667.10,../data/gaussian_confusion_matrices/scale_0.20.csv
+Belief Propagation,100202,40040,False,0.98,10,601.85,663.86,../data/gaussian_confusion_matrices/scale_0.20.csv
+algorithm,seed,n_inequalities,recovered_key,fraction_of_solution_recovered,n_iterations,time_seconds_solve_inequalities,approx_number_of_ciphertexts,confusion_matrix
+Belief Propagation,100203,25000,False,0.82,11,416.52,415.50,../data/gaussian_confusion_matrices/scale_0.20.csv
+Belief Propagation,100203,37500,False,0.94,6,342.61,623.25,../data/gaussian_confusion_matrices/scale_0.20.csv
+Belief Propagation,100203,43750,True,1.00,7,459.77,727.12,../data/gaussian_confusion_matrices/scale_0.20.csv
+Belief Propagation,100203,40625,True,1.00,8,486.17,675.19,../data/gaussian_confusion_matrices/scale_0.20.csv
+Belief Propagation,100203,39063,False,0.99,9,525.47,649.23,../data/gaussian_confusion_matrices/scale_0.20.csv
+Belief Propagation,100203,39844,False,0.97,6,362.49,662.21,../data/gaussian_confusion_matrices/scale_0.20.csv
+Belief Propagation,100203,40235,False,0.96,5,307.45,668.71,../data/gaussian_confusion_matrices/scale_0.20.csv
+algorithm,seed,n_inequalities,recovered_key,fraction_of_solution_recovered,n_iterations,time_seconds_solve_inequalities,approx_number_of_ciphertexts,confusion_matrix
+Belief Propagation,100204,25000,False,0.83,9,343.36,419.00,../data/gaussian_confusion_matrices/scale_0.20.csv
+Belief Propagation,100204,37500,False,0.96,6,342.48,628.50,../data/gaussian_confusion_matrices/scale_0.20.csv
+Belief Propagation,100204,43750,True,1.00,7,460.09,733.25,../data/gaussian_confusion_matrices/scale_0.20.csv
+Belief Propagation,100204,40625,True,1.00,8,493.89,680.88,../data/gaussian_confusion_matrices/scale_0.20.csv
+Belief Propagation,100204,39063,False,0.97,6,356.86,654.70,../data/gaussian_confusion_matrices/scale_0.20.csv
+Belief Propagation,100204,39844,False,0.99,7,417.93,667.79,../data/gaussian_confusion_matrices/scale_0.20.csv
+Belief Propagation,100204,40235,True,1.00,11,660.30,674.34,../data/gaussian_confusion_matrices/scale_0.20.csv
+Belief Propagation,100204,40040,False,0.98,6,363.84,671.07,../data/gaussian_confusion_matrices/scale_0.20.csv
+algorithm,seed,n_inequalities,recovered_key,fraction_of_solution_recovered,n_iterations,time_seconds_solve_inequalities,approx_number_of_ciphertexts,confusion_matrix
+Belief Propagation,100300,30000,False,0.83,4,184.76,499.00,../data/gaussian_confusion_matrices/scale_0.30.csv
+Belief Propagation,100300,45000,False,0.97,6,407.31,748.50,../data/gaussian_confusion_matrices/scale_0.30.csv
+Belief Propagation,100300,52500,True,1.00,7,553.66,873.25,../data/gaussian_confusion_matrices/scale_0.30.csv
+Belief Propagation,100300,48750,True,1.00,9,651.09,810.88,../data/gaussian_confusion_matrices/scale_0.30.csv
+Belief Propagation,100300,46875,True,1.00,9,626.27,779.69,../data/gaussian_confusion_matrices/scale_0.30.csv
+Belief Propagation,100300,45938,True,1.00,9,619.34,764.10,../data/gaussian_confusion_matrices/scale_0.30.csv
+Belief Propagation,100300,45469,True,1.00,9,613.08,756.30,../data/gaussian_confusion_matrices/scale_0.30.csv
+Belief Propagation,100300,45235,False,0.97,5,344.75,752.41,../data/gaussian_confusion_matrices/scale_0.30.csv
+algorithm,seed,n_inequalities,recovered_key,fraction_of_solution_recovered,n_iterations,time_seconds_solve_inequalities,approx_number_of_ciphertexts,confusion_matrix
+Belief Propagation,100301,30000,False,0.84,9,405.87,497.00,../data/gaussian_confusion_matrices/scale_0.30.csv
+Belief Propagation,100301,45000,True,1.00,9,599.80,745.50,../data/gaussian_confusion_matrices/scale_0.30.csv
+Belief Propagation,100301,37500,False,0.92,6,340.27,621.25,../data/gaussian_confusion_matrices/scale_0.30.csv
+Belief Propagation,100301,41250,False,0.94,6,372.84,683.38,../data/gaussian_confusion_matrices/scale_0.30.csv
+Belief Propagation,100301,43125,False,0.97,10,638.98,714.44,../data/gaussian_confusion_matrices/scale_0.30.csv
+Belief Propagation,100301,44063,False,0.98,8,524.49,729.98,../data/gaussian_confusion_matrices/scale_0.30.csv
+Belief Propagation,100301,44532,False,1.00,12,786.01,737.75,../data/gaussian_confusion_matrices/scale_0.30.csv
+algorithm,seed,n_inequalities,recovered_key,fraction_of_solution_recovered,n_iterations,time_seconds_solve_inequalities,approx_number_of_ciphertexts,confusion_matrix
+Belief Propagation,100302,30000,False,0.85,9,404.57,506.00,../data/gaussian_confusion_matrices/scale_0.30.csv
+Belief Propagation,100302,45000,True,1.00,13,878.13,759.00,../data/gaussian_confusion_matrices/scale_0.30.csv
+Belief Propagation,100302,37500,False,0.94,10,564.21,632.50,../data/gaussian_confusion_matrices/scale_0.30.csv
+Belief Propagation,100302,41250,False,0.95,6,376.15,695.75,../data/gaussian_confusion_matrices/scale_0.30.csv
+Belief Propagation,100302,43125,False,0.99,12,781.11,727.38,../data/gaussian_confusion_matrices/scale_0.30.csv
+Belief Propagation,100302,44063,True,1.00,13,849.73,743.20,../data/gaussian_confusion_matrices/scale_0.30.csv
+Belief Propagation,100302,43594,False,0.98,8,521.95,735.29,../data/gaussian_confusion_matrices/scale_0.30.csv
+algorithm,seed,n_inequalities,recovered_key,fraction_of_solution_recovered,n_iterations,time_seconds_solve_inequalities,approx_number_of_ciphertexts,confusion_matrix
+Belief Propagation,100303,30000,False,0.86,11,490.24,500.00,../data/gaussian_confusion_matrices/scale_0.30.csv
+Belief Propagation,100303,45000,False,0.96,6,410.55,750.00,../data/gaussian_confusion_matrices/scale_0.30.csv
+Belief Propagation,100303,52500,True,1.00,6,472.77,875.00,../data/gaussian_confusion_matrices/scale_0.30.csv
+Belief Propagation,100303,48750,True,1.00,7,511.99,812.50,../data/gaussian_confusion_matrices/scale_0.30.csv
+Belief Propagation,100303,46875,False,1.00,8,561.31,781.25,../data/gaussian_confusion_matrices/scale_0.30.csv
+Belief Propagation,100303,47813,True,1.00,11,789.71,796.88,../data/gaussian_confusion_matrices/scale_0.30.csv
+Belief Propagation,100303,47344,False,1.00,13,908.37,789.07,../data/gaussian_confusion_matrices/scale_0.30.csv
+algorithm,seed,n_inequalities,recovered_key,fraction_of_solution_recovered,n_iterations,time_seconds_solve_inequalities,approx_number_of_ciphertexts,confusion_matrix
+Belief Propagation,100304,30000,False,0.86,10,451.93,500.50,../data/gaussian_confusion_matrices/scale_0.30.csv
+Belief Propagation,100304,45000,True,1.00,8,537.18,750.75,../data/gaussian_confusion_matrices/scale_0.30.csv
+Belief Propagation,100304,37500,False,0.95,7,397.13,625.62,../data/gaussian_confusion_matrices/scale_0.30.csv
+Belief Propagation,100304,41250,False,1.00,9,553.65,688.19,../data/gaussian_confusion_matrices/scale_0.30.csv
+Belief Propagation,100304,43125,False,1.00,9,579.31,719.47,../data/gaussian_confusion_matrices/scale_0.30.csv
+Belief Propagation,100304,44063,False,1.00,8,526.24,735.12,../data/gaussian_confusion_matrices/scale_0.30.csv
+Belief Propagation,100304,44532,True,1.00,9,596.69,742.94,../data/gaussian_confusion_matrices/scale_0.30.csv
+Belief Propagation,100304,44298,True,1.00,8,533.28,739.04,../data/gaussian_confusion_matrices/scale_0.30.csv
+Belief Propagation,100304,44181,False,1.00,8,531.44,737.09,../data/gaussian_confusion_matrices/scale_0.30.csv
+algorithm,seed,n_inequalities,recovered_key,fraction_of_solution_recovered,n_iterations,time_seconds_solve_inequalities,approx_number_of_ciphertexts,confusion_matrix
+Belief Propagation,100400,40000,False,0.92,10,600.17,669.00,../data/gaussian_confusion_matrices/scale_0.40.csv
+Belief Propagation,100400,60000,True,1.00,8,717.57,1003.50,../data/gaussian_confusion_matrices/scale_0.40.csv
+Belief Propagation,100400,50000,False,0.99,10,746.11,836.25,../data/gaussian_confusion_matrices/scale_0.40.csv
+Belief Propagation,100400,55000,True,1.00,6,496.97,919.88,../data/gaussian_confusion_matrices/scale_0.40.csv
+Belief Propagation,100400,52500,True,1.00,10,779.75,878.06,../data/gaussian_confusion_matrices/scale_0.40.csv
+Belief Propagation,100400,51250,False,0.99,7,539.04,857.16,../data/gaussian_confusion_matrices/scale_0.40.csv
+Belief Propagation,100400,51875,False,0.95,4,315.36,867.61,../data/gaussian_confusion_matrices/scale_0.40.csv
+Belief Propagation,100400,52188,True,1.00,10,770.79,872.84,../data/gaussian_confusion_matrices/scale_0.40.csv
+Belief Propagation,100400,52032,False,0.98,6,461.18,870.24,../data/gaussian_confusion_matrices/scale_0.40.csv
+algorithm,seed,n_inequalities,recovered_key,fraction_of_solution_recovered,n_iterations,time_seconds_solve_inequalities,approx_number_of_ciphertexts,confusion_matrix
+Belief Propagation,100401,40000,False,0.91,5,306.89,664.50,../data/gaussian_confusion_matrices/scale_0.40.csv
+Belief Propagation,100401,60000,True,1.00,6,539.84,996.75,../data/gaussian_confusion_matrices/scale_0.40.csv
+Belief Propagation,100401,50000,False,0.97,5,379.14,830.62,../data/gaussian_confusion_matrices/scale_0.40.csv
+Belief Propagation,100401,55000,False,1.00,10,816.46,913.69,../data/gaussian_confusion_matrices/scale_0.40.csv
+Belief Propagation,100401,57500,True,1.00,8,687.77,955.22,../data/gaussian_confusion_matrices/scale_0.40.csv
+Belief Propagation,100401,56250,False,0.99,6,507.56,934.45,../data/gaussian_confusion_matrices/scale_0.40.csv
+Belief Propagation,100401,56875,False,1.00,8,679.22,944.84,../data/gaussian_confusion_matrices/scale_0.40.csv
+Belief Propagation,100401,57188,False,1.00,6,514.55,950.04,../data/gaussian_confusion_matrices/scale_0.40.csv
+algorithm,seed,n_inequalities,recovered_key,fraction_of_solution_recovered,n_iterations,time_seconds_solve_inequalities,approx_number_of_ciphertexts,confusion_matrix
+Belief Propagation,100402,40000,False,0.95,9,539.00,668.50,../data/gaussian_confusion_matrices/scale_0.40.csv
+Belief Propagation,100402,60000,True,1.00,6,538.43,1002.75,../data/gaussian_confusion_matrices/scale_0.40.csv
+Belief Propagation,100402,50000,False,0.96,5,377.81,835.62,../data/gaussian_confusion_matrices/scale_0.40.csv
+Belief Propagation,100402,55000,True,1.00,7,576.09,919.19,../data/gaussian_confusion_matrices/scale_0.40.csv
+Belief Propagation,100402,52500,True,1.00,9,710.14,877.41,../data/gaussian_confusion_matrices/scale_0.40.csv
+Belief Propagation,100402,51250,True,1.00,8,611.41,856.52,../data/gaussian_confusion_matrices/scale_0.40.csv
+Belief Propagation,100402,50625,True,1.00,8,602.80,846.07,../data/gaussian_confusion_matrices/scale_0.40.csv
+Belief Propagation,100402,50313,True,1.00,8,600.00,840.86,../data/gaussian_confusion_matrices/scale_0.40.csv
+Belief Propagation,100402,50157,False,0.96,5,379.17,838.25,../data/gaussian_confusion_matrices/scale_0.40.csv
+algorithm,seed,n_inequalities,recovered_key,fraction_of_solution_recovered,n_iterations,time_seconds_solve_inequalities,approx_number_of_ciphertexts,confusion_matrix
+Belief Propagation,100403,40000,False,0.91,6,366.08,670.50,../data/gaussian_confusion_matrices/scale_0.40.csv
+Belief Propagation,100403,60000,True,1.00,5,452.09,1005.75,../data/gaussian_confusion_matrices/scale_0.40.csv
+Belief Propagation,100403,50000,False,0.97,5,380.15,838.12,../data/gaussian_confusion_matrices/scale_0.40.csv
+Belief Propagation,100403,55000,True,1.00,8,656.62,921.94,../data/gaussian_confusion_matrices/scale_0.40.csv
+Belief Propagation,100403,52500,True,1.00,7,550.84,880.03,../data/gaussian_confusion_matrices/scale_0.40.csv
+Belief Propagation,100403,51250,False,0.99,8,611.43,859.08,../data/gaussian_confusion_matrices/scale_0.40.csv
+Belief Propagation,100403,51875,False,0.96,5,391.14,869.55,../data/gaussian_confusion_matrices/scale_0.40.csv
+Belief Propagation,100403,52188,True,1.00,9,696.41,874.80,../data/gaussian_confusion_matrices/scale_0.40.csv
+Belief Propagation,100403,52032,False,1.00,9,699.47,872.19,../data/gaussian_confusion_matrices/scale_0.40.csv
+algorithm,seed,n_inequalities,recovered_key,fraction_of_solution_recovered,n_iterations,time_seconds_solve_inequalities,approx_number_of_ciphertexts,confusion_matrix
+Belief Propagation,100404,40000,False,0.93,9,542.15,663.00,../data/gaussian_confusion_matrices/scale_0.40.csv
+Belief Propagation,100404,60000,True,1.00,6,539.43,994.50,../data/gaussian_confusion_matrices/scale_0.40.csv
+Belief Propagation,100404,50000,False,0.97,6,450.05,828.75,../data/gaussian_confusion_matrices/scale_0.40.csv
+Belief Propagation,100404,55000,False,1.00,10,812.89,911.62,../data/gaussian_confusion_matrices/scale_0.40.csv
+Belief Propagation,100404,57500,True,1.00,6,514.01,953.06,../data/gaussian_confusion_matrices/scale_0.40.csv
+Belief Propagation,100404,56250,True,1.00,6,503.62,932.34,../data/gaussian_confusion_matrices/scale_0.40.csv
+Belief Propagation,100404,55625,False,0.95,4,339.66,921.98,../data/gaussian_confusion_matrices/scale_0.40.csv
+Belief Propagation,100404,55938,True,1.00,6,504.81,927.17,../data/gaussian_confusion_matrices/scale_0.40.csv
+Belief Propagation,100404,55782,True,1.00,6,500.50,924.59,../data/gaussian_confusion_matrices/scale_0.40.csv
+Belief Propagation,100404,55704,True,1.00,7,580.52,923.29,../data/gaussian_confusion_matrices/scale_0.40.csv
+Belief Propagation,100404,55665,True,1.00,6,500.10,922.65,../data/gaussian_confusion_matrices/scale_0.40.csv
+Belief Propagation,100404,55645,False,0.97,4,337.48,922.32,../data/gaussian_confusion_matrices/scale_0.40.csv
+algorithm,seed,n_inequalities,recovered_key,fraction_of_solution_recovered,n_iterations,time_seconds_solve_inequalities,approx_number_of_ciphertexts,confusion_matrix
+Belief Propagation,100500,50000,False,0.95,7,526.99,830.00,../data/gaussian_confusion_matrices/scale_0.50.csv
+Belief Propagation,100500,75000,True,1.00,5,560.78,1245.00,../data/gaussian_confusion_matrices/scale_0.50.csv
+Belief Propagation,100500,62500,False,0.99,6,564.77,1037.50,../data/gaussian_confusion_matrices/scale_0.50.csv
+Belief Propagation,100500,68750,True,1.00,6,620.60,1141.25,../data/gaussian_confusion_matrices/scale_0.50.csv
+Belief Propagation,100500,65625,False,0.97,4,398.73,1089.38,../data/gaussian_confusion_matrices/scale_0.50.csv
+Belief Propagation,100500,67188,True,1.00,7,699.96,1115.32,../data/gaussian_confusion_matrices/scale_0.50.csv
+Belief Propagation,100500,66407,True,1.00,7,692.29,1102.36,../data/gaussian_confusion_matrices/scale_0.50.csv
+Belief Propagation,100500,66016,True,1.00,5,495.37,1095.87,../data/gaussian_confusion_matrices/scale_0.50.csv
+Belief Propagation,100500,65821,False,1.00,6,591.69,1092.63,../data/gaussian_confusion_matrices/scale_0.50.csv
+algorithm,seed,n_inequalities,recovered_key,fraction_of_solution_recovered,n_iterations,time_seconds_solve_inequalities,approx_number_of_ciphertexts,confusion_matrix
+Belief Propagation,100501,50000,False,0.96,10,747.13,833.50,../data/gaussian_confusion_matrices/scale_0.50.csv
+Belief Propagation,100501,75000,True,1.00,5,560.37,1250.25,../data/gaussian_confusion_matrices/scale_0.50.csv
+Belief Propagation,100501,62500,True,1.00,6,559.54,1041.88,../data/gaussian_confusion_matrices/scale_0.50.csv
+Belief Propagation,100501,56250,True,1.00,7,589.38,937.69,../data/gaussian_confusion_matrices/scale_0.50.csv
+Belief Propagation,100501,53125,False,0.98,10,790.50,885.59,../data/gaussian_confusion_matrices/scale_0.50.csv
+Belief Propagation,100501,54688,False,0.99,10,812.50,911.65,../data/gaussian_confusion_matrices/scale_0.50.csv
+Belief Propagation,100501,55469,False,0.97,5,422.63,924.67,../data/gaussian_confusion_matrices/scale_0.50.csv
+Belief Propagation,100501,55860,True,1.00,10,834.15,931.19,../data/gaussian_confusion_matrices/scale_0.50.csv
+Belief Propagation,100501,55665,False,0.96,5,421.37,927.94,../data/gaussian_confusion_matrices/scale_0.50.csv
+algorithm,seed,n_inequalities,recovered_key,fraction_of_solution_recovered,n_iterations,time_seconds_solve_inequalities,approx_number_of_ciphertexts,confusion_matrix
+Belief Propagation,100502,50000,False,0.95,6,452.04,831.50,../data/gaussian_confusion_matrices/scale_0.50.csv
+Belief Propagation,100502,75000,True,1.00,5,561.86,1247.25,../data/gaussian_confusion_matrices/scale_0.50.csv
+Belief Propagation,100502,62500,True,1.00,8,744.19,1039.38,../data/gaussian_confusion_matrices/scale_0.50.csv
+Belief Propagation,100502,56250,False,0.98,5,422.50,935.44,../data/gaussian_confusion_matrices/scale_0.50.csv
+Belief Propagation,100502,59375,False,0.99,7,619.81,987.41,../data/gaussian_confusion_matrices/scale_0.50.csv
+Belief Propagation,100502,60938,False,0.99,7,639.24,1013.40,../data/gaussian_confusion_matrices/scale_0.50.csv
+Belief Propagation,100502,61719,False,0.96,4,371.92,1026.39,../data/gaussian_confusion_matrices/scale_0.50.csv
+Belief Propagation,100502,62110,True,1.00,7,647.87,1032.89,../data/gaussian_confusion_matrices/scale_0.50.csv
+Belief Propagation,100502,61915,False,1.00,9,827.01,1029.65,../data/gaussian_confusion_matrices/scale_0.50.csv
+algorithm,seed,n_inequalities,recovered_key,fraction_of_solution_recovered,n_iterations,time_seconds_solve_inequalities,approx_number_of_ciphertexts,confusion_matrix
+Belief Propagation,100503,50000,False,0.96,8,597.02,835.50,../data/gaussian_confusion_matrices/scale_0.50.csv
+Belief Propagation,100503,75000,True,1.00,4,457.48,1253.25,../data/gaussian_confusion_matrices/scale_0.50.csv
+Belief Propagation,100503,62500,True,1.00,6,561.11,1044.38,../data/gaussian_confusion_matrices/scale_0.50.csv
+Belief Propagation,100503,56250,True,1.00,8,671.11,939.94,../data/gaussian_confusion_matrices/scale_0.50.csv
+Belief Propagation,100503,53125,False,0.98,9,713.36,887.72,../data/gaussian_confusion_matrices/scale_0.50.csv
+Belief Propagation,100503,54688,False,0.95,5,410.69,913.84,../data/gaussian_confusion_matrices/scale_0.50.csv
+Belief Propagation,100503,55469,False,0.99,12,986.63,926.89,../data/gaussian_confusion_matrices/scale_0.50.csv
+Belief Propagation,100503,55860,False,0.96,5,421.60,933.42,../data/gaussian_confusion_matrices/scale_0.50.csv
+algorithm,seed,n_inequalities,recovered_key,fraction_of_solution_recovered,n_iterations,time_seconds_solve_inequalities,approx_number_of_ciphertexts,confusion_matrix
+Belief Propagation,100504,50000,False,0.97,11,818.10,830.00,../data/gaussian_confusion_matrices/scale_0.50.csv
+Belief Propagation,100504,75000,True,1.00,6,668.31,1245.00,../data/gaussian_confusion_matrices/scale_0.50.csv
+Belief Propagation,100504,62500,False,0.99,7,645.46,1037.50,../data/gaussian_confusion_matrices/scale_0.50.csv
+Belief Propagation,100504,68750,False,0.97,4,415.70,1141.25,../data/gaussian_confusion_matrices/scale_0.50.csv
+Belief Propagation,100504,71875,True,1.00,6,639.34,1193.12,../data/gaussian_confusion_matrices/scale_0.50.csv
+Belief Propagation,100504,70313,True,1.00,5,521.90,1167.20,../data/gaussian_confusion_matrices/scale_0.50.csv
+Belief Propagation,100504,69532,True,1.00,6,619.84,1154.23,../data/gaussian_confusion_matrices/scale_0.50.csv
+Belief Propagation,100504,69141,True,1.00,7,720.45,1147.74,../data/gaussian_confusion_matrices/scale_0.50.csv
+Belief Propagation,100504,68946,True,1.00,6,617.87,1144.50,../data/gaussian_confusion_matrices/scale_0.50.csv
+Belief Propagation,100504,68848,True,1.00,7,713.95,1142.88,../data/gaussian_confusion_matrices/scale_0.50.csv
+Belief Propagation,100504,68799,True,1.00,8,812.82,1142.06,../data/gaussian_confusion_matrices/scale_0.50.csv
+Belief Propagation,100504,68775,False,1.00,7,711.59,1141.66,../data/gaussian_confusion_matrices/scale_0.50.csv
